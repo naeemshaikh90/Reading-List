@@ -1,3 +1,5 @@
+[![Readme Score](http://readme-score-api.herokuapp.com/score.svg?url=https://github.com/naeemshaikh90/reading-list)](http://clayallsopp.github.io/readme-score?url=https://github.com/naeemshaikh90/reading-list)
+
 # Reading-List
 To-Do Reading List.
 
