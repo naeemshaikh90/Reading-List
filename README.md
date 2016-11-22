@@ -24,3 +24,6 @@ Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
 
 #### Hacking with Swift
 - [ ] [Hacking with Swift](https://www.hackingwithswift.com/read/) :large_orange_diamond:
+
+## Others
+- [ ] [CocoaPods's Quality Indexes](https://guides.cocoapods.org/making/quality-indexes.html)
