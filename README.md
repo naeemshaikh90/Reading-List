@@ -4,7 +4,7 @@ To-Do Reading List.
 # About
 A curated list of iOS tutorials and reading list.
 
-Projects/Tutorials in Swift will be marked with :large_orange_diamond:, Swift Extensions will be marked with 🔶[e] and ⌚ for Apple Watch projects.
+Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
 
 ## iOS
 #### Shinobi Controls
