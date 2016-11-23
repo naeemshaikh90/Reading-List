@@ -21,8 +21,7 @@ Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
 #### Hacking with Swift
 - [ ] [Hacking with Swift](https://www.hackingwithswift.com/read/) :large_orange_diamond:
 
-#### That thing in swift
-- [x] [Kill Your Giant viewDidLoad](https://thatthinginswift.com/kill-your-viewdidload/) :large_orange_diamond:
+#### [That thing in swift](https://github.com/naeemshaikh90/Reading-List/blob/master/That-thing-in-swift.md)
 
 ## Others
 - [ ] [CocoaPods's Quality Indexes](https://guides.cocoapods.org/making/quality-indexes.html)
