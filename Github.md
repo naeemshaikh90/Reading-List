@@ -7,6 +7,7 @@
 - [ ] [Mantle](https://github.com/Mantle)
 - [ ] [Mutual Mobile](https://github.com/mutualmobile)
 - [ ] [Hyper](https://github.com/hyperoslo)
+- [ ] [The New York Times](https://github.com/NYTimes)
 
 # Profiles
 - [ ] [Nick O'Neill](https://github.com/nickoneill)
