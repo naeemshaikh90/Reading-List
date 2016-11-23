@@ -18,3 +18,4 @@
 - [ ] [Sindre Sorhus](https://github.com/sindresorhus)
 - [ ] [Brad Larson](https://github.com/BradLarson)
 - [ ] [Logan Wright](https://github.com/LoganWright)
+- [ ] [Lucas Farah](https://github.com/lfarah)
