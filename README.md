@@ -1,7 +1,4 @@
 # Reading-List
-To-Do Reading List.
-
-# About
 A curated list of iOS tutorials, reading list, Github profiles and organizations.
 
 Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
