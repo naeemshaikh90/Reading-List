@@ -1,10 +1,8 @@
 # Reading-List
 To-Do Reading List.
 
-[![Readme Score](http://readme-score-api.herokuapp.com/score.svg?url=https://github.com/naeemshaikh90/reading-list)](http://clayallsopp.github.io/readme-score?url=https://github.com/naeemshaikh90/reading-list)
-
 # About
-A curated list of iOS tutorials and reading list.
+A curated list of iOS tutorials, reading list, Github profiles and organizations.
 
 Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
 
