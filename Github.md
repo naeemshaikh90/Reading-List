@@ -19,3 +19,4 @@
 - [ ] [Brad Larson](https://github.com/BradLarson)
 - [ ] [Logan Wright](https://github.com/LoganWright)
 - [ ] [Lucas Farah](https://github.com/lfarah)
+- [ ] [Jin Sasaki](https://github.com/jinSasaki)
