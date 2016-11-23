@@ -11,7 +11,8 @@ Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
   - [That thing in swift](https://github.com/naeemshaikh90/Reading-List/blob/master/That-thing-in-swift.md)
 
 ## GitHub
-  - [Organizations & Profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md)
+  - [Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations)
+  - [Profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles)
 
 ## Others
   - [Other links](https://github.com/naeemshaikh90/Reading-List/blob/master/Others.md)
