@@ -1,5 +1,32 @@
 # Shinobi Controls
-- [ ] [iOS7 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios7-day-by-day)
-- [ ] [iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) :large_orange_diamond:
-- [ ] [iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) :large_orange_diamond:
-- [ ] [iOS10 Day by Day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) :large_orange_diamond:
+
+- #### [iOS7 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios7-day-by-day)
+    - [ ] [Day 0 :: UIKit Dynamics](https://www.shinobicontrols.com/blog/posts/2013/09/19/ios7-day-by-day-day-0-uikit-dynamics/)
+    - [ ] [Day 1 :: NSURLSession](https://www.shinobicontrols.com/blog/posts/2013/09/20/ios7-day-by-day-day-1-nsurlsession/)
+    - [ ] [Day 2 :: Asset Catalog](https://www.shinobicontrols.com/blog/posts/2013/09/23/ios7-day-by-day-day-2-asset-catalog/)
+    - [ ] [Day 3 :: Background Fetch](https://www.shinobicontrols.com/blog/posts/2013/09/24/ios7-day-by-day-day-3-background-fetch/)
+    - [ ] [Day 4 :: AVSpeechSynthesizer]()
+    - [ ] [Day 5 :: UIDynamics with Collection Views]()
+    - [ ] [Day 6 :: Tint Color]()
+    - [ ] [Day 7 :: Taking Snapshots of UIViews]()
+    - [ ] [Day 8 :: Reading list with SafariServices]()
+    - [ ] [Day 9 :: Device Identification]()
+    - [ ] [Day 10 :: Custom UIViewController Transitions]()
+    - [ ] [Day 11 :: UIView Key-frame Animations]()
+    - [ ] [Day 12 :: Dynamic Type and Font Descriptors]()
+    - [ ] [Day 13 :: Route Directions with MapKit]()
+    - [ ] [Day 14 :: Interactive View Controller Transitions]()
+    - [ ] [Day 15 :: CoreImage Filters]()
+    - [ ] [Day 16 :: Decoding QR Codes with AVFoundation]()
+    - [ ] [Day 17 :: iBeacons]()
+    - [ ] [Day 18 :: Detecting Facial Features with CoreImage]()
+    - [ ] [Day 19 :: UITableView Row Height Estimation]()
+    - [ ] [Day 20 :: View controller content and navigation bars]()
+    - [ ] [Day 21 :: Multi-column TextKit text rendering]()
+    - [ ] [Day 22 :: Downloadable Fonts]()
+    - [ ] [Day 23 :: Multipeer Connectivity]()
+    - [ ] [Day 24 :: The End]()
+
+- #### [iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) :large_orange_diamond:
+- #### [iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) :large_orange_diamond:
+- #### [iOS10 Day by Day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) :large_orange_diamond:
