@@ -1,0 +1,31 @@
+#The Swift Programming Language (Swift 3.0.1)
+- Welcome to Swift
+    - [x] About Swift
+    - [ ] A Swift Tour
+- Language Guide
+    - [x] The Basics
+    - [x] Basic Operators
+    - [x] Strings and Characters
+    - [x] Collection Types
+    - [x] Control Flow
+    - [x] Functions
+    - [x] Closures
+    - [x] Enumerations
+    - [ ] Classes and Structures
+    - [ ] Properties
+    - [ ] Methods
+    - [ ] Subscripts
+    - [ ] Inheritance
+    - [ ] Initialization
+    - [ ] Deinitialization
+    - [ ] Automatic Reference Counting
+    - [ ] Optional Chaining
+    - [ ] Error Handling
+    - [ ] Type Casting
+    - [ ] Nested Types
+    - [ ] Extensions
+    - [ ] Protocols
+    - [ ] Generics
+    - [ ] Access Control
+    - [ ] Advanced Operators
+
