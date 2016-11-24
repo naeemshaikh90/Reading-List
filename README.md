@@ -1,8 +1,6 @@
 # Reading-List
 A curated list of iOS tutorials, reading list, Github profiles and organizations.
 
-Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
-
 ## iOS
   - [The Swift Programming Language (Swift 3.0.1)](https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook.md)
   - [Shinobi Controls](https://github.com/naeemshaikh90/Reading-List/blob/master/ShinobiControls.md)
