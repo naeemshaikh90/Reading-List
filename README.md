@@ -16,3 +16,4 @@ Projects/Tutorials in Swift will be marked with :large_orange_diamond:.
 
 ## Others
   - [Other links](https://github.com/naeemshaikh90/Reading-List/blob/master/Others.md)
+  - [Touch Typing](https://github.com/naeemshaikh90/Reading-List/blob/master/TouchTyping.md)
