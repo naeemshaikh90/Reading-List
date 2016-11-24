@@ -11,7 +11,7 @@
     - [x] Functions
     - [x] Closures
     - [x] Enumerations
-    - [ ] Classes and Structures
+    - [x] Classes and Structures
     - [ ] Properties
     - [ ] Methods
     - [ ] Subscripts
