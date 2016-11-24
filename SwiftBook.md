@@ -12,7 +12,7 @@
     - [x] Closures
     - [x] Enumerations
     - [x] Classes and Structures
-    - [ ] Properties
+    - [x] Properties
     - [ ] Methods
     - [ ] Subscripts
     - [ ] Inheritance
