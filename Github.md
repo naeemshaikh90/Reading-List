@@ -8,6 +8,7 @@
 - [ ] [Mutual Mobile](https://github.com/mutualmobile)
 - [ ] [Hyper](https://github.com/hyperoslo)
 - [ ] [The New York Times](https://github.com/NYTimes)
+- [ ] [Cleveroad Inc.](https://github.com/Cleveroad)
 
 # Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
