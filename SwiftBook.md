@@ -13,8 +13,8 @@
     - [x] Enumerations
     - [x] Classes and Structures
     - [x] Properties
-    - [ ] Methods
-    - [ ] Subscripts
+    - [x] Methods
+    - [x] Subscripts
     - [ ] Inheritance
     - [ ] Initialization
     - [ ] Deinitialization
