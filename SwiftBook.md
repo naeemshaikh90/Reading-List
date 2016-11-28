@@ -15,7 +15,7 @@
     - [x] Properties
     - [x] Methods
     - [x] Subscripts
-    - [ ] Inheritance
+    - [x] Inheritance
     - [ ] Initialization
     - [ ] Deinitialization
     - [ ] Automatic Reference Counting
