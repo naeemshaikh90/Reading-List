@@ -16,7 +16,7 @@
     - [x] Methods
     - [x] Subscripts
     - [x] Inheritance
-    - [ ] Initialization
+    - [x] Initialization
     - [ ] Deinitialization
     - [ ] Automatic Reference Counting
     - [ ] Optional Chaining
