@@ -17,7 +17,7 @@
     - [x] Subscripts
     - [x] Inheritance
     - [x] Initialization
-    - [ ] Deinitialization
+    - [x] Deinitialization
     - [ ] Automatic Reference Counting
     - [ ] Optional Chaining
     - [ ] Error Handling
