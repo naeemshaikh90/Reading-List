@@ -9,6 +9,7 @@
 - [ ] [Hyper](https://github.com/hyperoslo)
 - [ ] [The New York Times](https://github.com/NYTimes)
 - [ ] [Cleveroad Inc.](https://github.com/Cleveroad)
+- [ ] [Mobile Jazz](https://github.com/mobilejazz)
 
 # Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
