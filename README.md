@@ -4,6 +4,7 @@ A curated list of iOS tutorials, reading list, Github profiles and organizations
 ## iOS
   - [The Swift Programming Language (Swift 3.0.1)](https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook/SwiftBook.md)
   - [Guidelines](https://github.com/naeemshaikh90/Reading-List/blob/master/Guidelines.md)
+  - [WWDC](https://github.com/naeemshaikh90/Reading-List/blob/master/WWDC.md)
   - [Shinobi Controls](https://github.com/naeemshaikh90/Reading-List/blob/master/ShinobiControls.md)
   - [Game Tutorials](https://github.com/naeemshaikh90/Reading-List/blob/master/GameTutorials.md)
   - [Raywenderlich](https://github.com/naeemshaikh90/Reading-List/blob/master/Raywenderlich.md)
