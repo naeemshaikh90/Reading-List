@@ -2,6 +2,7 @@
 A curated list of iOS tutorials, reading list, Github profiles and organizations.
 
 ## iOS
+  - [Human Interface Guidelines](https://github.com/naeemshaikh90/Reading-List/blob/master/HumanInterfaceGuidelines.md)
   - [The Swift Programming Language (Swift 3.0.1)](https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook/SwiftBook.md)
   - [Shinobi Controls](https://github.com/naeemshaikh90/Reading-List/blob/master/ShinobiControls.md)
   - [Game Tutorials](https://github.com/naeemshaikh90/Reading-List/blob/master/GameTutorials.md)
