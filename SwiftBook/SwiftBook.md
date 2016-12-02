@@ -18,7 +18,7 @@
     - [x] Inheritance
     - [x] Initialization
     - [x] Deinitialization
-    - [ ] Automatic Reference Counting
+    - [x] Automatic Reference Counting
     - [ ] Optional Chaining
     - [ ] Error Handling
     - [ ] Type Casting
@@ -28,4 +28,3 @@
     - [ ] Generics
     - [ ] Access Control
     - [ ] Advanced Operators
-
