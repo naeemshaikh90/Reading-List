@@ -18,6 +18,7 @@
   - [ ] [What's New in Cocoa Touch](https://developer.apple.com/videos/play/wwdc2016/205/)
   - [ ] [What's New in Foundation for Swift](https://developer.apple.com/videos/play/wwdc2016/207/)
   - [ ] [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/)
+  - [ ] [What's New in UICollectionView in iOS 10](https://developer.apple.com/videos/play/wwdc2016/219/)
   - [ ] [Swift API Design Guidelines](https://developer.apple.com/videos/play/wwdc2016/403/)
   - [ ] [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406/)
   - [ ] [Introducing Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2016/408/)
