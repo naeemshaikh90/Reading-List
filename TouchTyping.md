@@ -7,4 +7,5 @@
 - [x] [C, G, and N Keys](https://www.typing.com/student/lessons/363/c-g-and-n-keys)
 - [x] [Beginner Review 1](https://www.typing.com/student/lessons/382/beginner-review-1)
 - [x] [T, S, and L Keys](https://www.typing.com/student/lessons/366/t-s-and-l-keys)
-- [ ] [O, B, and A Keys](https://www.typing.com/student/lessons/367/o-b-and-a-keys)
+- [x] [O, B, and A Keys](https://www.typing.com/student/lessons/367/o-b-and-a-keys)
+- [ ] [V, H, and M Keys](https://www.typing.com/student/lessons/368/v-h-and-m-keys)
