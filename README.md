@@ -12,7 +12,7 @@ A curated list of iOS tutorials, reading list, Github profiles and organizations
   - [That thing in swift](https://github.com/naeemshaikh90/Reading-List/blob/master/That-thing-in-swift.md)
 
 ## Design
-  - [Learn Sketch](https://www.sketchapp.com/learn/)
+  - [Learn Sketch](https://github.com/naeemshaikh90/Reading-List/blob/master/Sketch.md)
   
 ## GitHub
   - [Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations)
