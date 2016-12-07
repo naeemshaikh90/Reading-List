@@ -10,6 +10,7 @@ A curated list of iOS tutorials, reading list, Github profiles and organizations
   - [Raywenderlich](https://github.com/naeemshaikh90/Reading-List/blob/master/Raywenderlich.md)
   - [Hacking with Swift](https://github.com/naeemshaikh90/Reading-List/blob/master/Hacking%20with%20Swift.md)
   - [That thing in swift](https://github.com/naeemshaikh90/Reading-List/blob/master/That-thing-in-swift.md)
+  - [Realm](https://github.com/naeemshaikh90/Reading-List/blob/master/Realm.md)
 
 ## Design
   - [Learn Sketch](https://github.com/naeemshaikh90/Reading-List/blob/master/Sketch.md)
