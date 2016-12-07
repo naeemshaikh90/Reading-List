@@ -34,3 +34,4 @@
 - [ ] [Raul Riera](https://github.com/raulriera)
 - [ ] [Nick O'Neill](https://github.com/nickoneill)
 - [ ] [Bruno Candido Volpato da Cunha](https://github.com/brunocvcunha)
+- [ ] [Devran Ünal](https://github.com/Cosmo)
