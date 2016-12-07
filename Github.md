@@ -10,6 +10,7 @@
 - [ ] [The New York Times](https://github.com/NYTimes)
 - [ ] [Cleveroad Inc.](https://github.com/Cleveroad)
 - [ ] [Mobile Jazz](https://github.com/mobilejazz)
+- [ ] [Khan Academy](https://github.com/Khan)
 
 # Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
