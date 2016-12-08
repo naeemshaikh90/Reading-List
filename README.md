@@ -1,4 +1,4 @@
-![](https://static.pexels.com/photos/36178/pexels-photo.jpg)
+![](https://github.com/naeemshaikh90/Reading-List/blob/master/pexels-photo.jpg)
 
 # Reading-List
 
