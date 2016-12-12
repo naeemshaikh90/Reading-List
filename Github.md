@@ -1,4 +1,5 @@
-# Organizations
+## GitHub
+#### Organizations
 - [ ] [IFTTT](https://github.com/IFTTT)
 - [ ] [TypeLift](https://github.com/typelift)
 - [ ] [Zewo](https://github.com/Zewo)
@@ -13,7 +14,7 @@
 - [ ] [Khan Academy](https://github.com/Khan)
 - [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
 
-# Profiles
+#### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
 - [ ] [Hoon H.](https://github.com/eonil)
 - [ ] [Sindre Sorhus](https://github.com/sindresorhus)
@@ -22,7 +23,7 @@
 - [ ] [Lucas Farah](https://github.com/lfarah)
 - [ ] [Jin Sasaki](https://github.com/jinSasaki)
 
-
+#### Profiles (To be sorted)
 - [ ] [iAchieved.it](https://github.com/iachievedit)
 - [ ] [Ricardo Borelli](https://github.com/rabc)
 - [ ] [Robert Payne](https://github.com/robertjpayne)

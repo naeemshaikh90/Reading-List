@@ -1,8 +1,8 @@
-# [The Swift Programming Language (Swift 3.0.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
-- Welcome to Swift
+## [The Swift Programming Language (Swift 3.0.1)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
+* - [ ] Welcome to Swift
     - [x] About Swift
     - [ ] A Swift Tour
-- Language Guide
+* - [ ] Language Guide
     - [x] The Basics
     - [x] Basic Operators
     - [x] Strings and Characters
