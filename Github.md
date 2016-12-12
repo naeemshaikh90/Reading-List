@@ -11,6 +11,7 @@
 - [ ] [Cleveroad Inc.](https://github.com/Cleveroad)
 - [ ] [Mobile Jazz](https://github.com/mobilejazz)
 - [ ] [Khan Academy](https://github.com/Khan)
+- [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
 
 # Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
