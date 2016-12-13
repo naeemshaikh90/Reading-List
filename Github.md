@@ -13,6 +13,7 @@
 - [ ] [Mobile Jazz](https://github.com/mobilejazz)
 - [ ] [Khan Academy](https://github.com/Khan)
 - [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
+- [ ] [Wire Swiss GmbH](https://github.com/wireapp)
 
 #### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
