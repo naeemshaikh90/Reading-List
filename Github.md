@@ -14,6 +14,7 @@
 - [ ] [Khan Academy](https://github.com/Khan)
 - [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
 - [ ] [Wire Swiss GmbH](https://github.com/wireapp)
+- [ ] [Apple](https://github.com/apple)
 
 #### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
