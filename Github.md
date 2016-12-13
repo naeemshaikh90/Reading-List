@@ -38,3 +38,4 @@
 - [ ] [Nick O'Neill](https://github.com/nickoneill)
 - [ ] [Bruno Candido Volpato da Cunha](https://github.com/brunocvcunha)
 - [ ] [Devran Ünal](https://github.com/Cosmo)
+- [ ] [Mohd Iftekhar Qurashi](https://github.com/hackiftekhar)
