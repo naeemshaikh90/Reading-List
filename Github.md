@@ -42,3 +42,4 @@
 - [ ] [Devran Ünal](https://github.com/Cosmo)
 - [ ] [Mohd Iftekhar Qurashi](https://github.com/hackiftekhar)
 - [ ] [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
+- [ ] [Chris Lattner](https://github.com/lattner)
