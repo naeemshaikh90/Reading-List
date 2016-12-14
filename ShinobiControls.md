@@ -1,100 +1,99 @@
 # Shinobi Controls
 
 - #### [iOS7 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios7-day-by-day)
-    - [ ] [Day 0 :: UIKit Dynamics](https://www.shinobicontrols.com/blog/posts/2013/09/19/ios7-day-by-day-day-0-uikit-dynamics/)
-    - [ ] [Day 1 :: NSURLSession](https://www.shinobicontrols.com/blog/posts/2013/09/20/ios7-day-by-day-day-1-nsurlsession/)
-    - [ ] [Day 2 :: Asset Catalog](https://www.shinobicontrols.com/blog/posts/2013/09/23/ios7-day-by-day-day-2-asset-catalog/)
-    - [ ] [Day 3 :: Background Fetch](https://www.shinobicontrols.com/blog/posts/2013/09/24/ios7-day-by-day-day-3-background-fetch/)
-    - [ ] [Day 4 :: AVSpeechSynthesizer]()
-    - [ ] [Day 5 :: UIDynamics with Collection Views]()
-    - [ ] [Day 6 :: Tint Color]()
-    - [ ] [Day 7 :: Taking Snapshots of UIViews]()
-    - [ ] [Day 8 :: Reading list with SafariServices]()
-    - [ ] [Day 9 :: Device Identification]()
-    - [ ] [Day 10 :: Custom UIViewController Transitions]()
-    - [ ] [Day 11 :: UIView Key-frame Animations]()
-    - [ ] [Day 12 :: Dynamic Type and Font Descriptors]()
-    - [ ] [Day 13 :: Route Directions with MapKit]()
-    - [ ] [Day 14 :: Interactive View Controller Transitions]()
-    - [ ] [Day 15 :: CoreImage Filters]()
-    - [ ] [Day 16 :: Decoding QR Codes with AVFoundation]()
-    - [ ] [Day 17 :: iBeacons]()
-    - [ ] [Day 18 :: Detecting Facial Features with CoreImage]()
-    - [ ] [Day 19 :: UITableView Row Height Estimation]()
-    - [ ] [Day 20 :: View controller content and navigation bars]()
-    - [ ] [Day 21 :: Multi-column TextKit text rendering]()
-    - [ ] [Day 22 :: Downloadable Fonts]()
-    - [ ] [Day 23 :: Multipeer Connectivity]()
-    - [ ] [Day 24 :: The End]()
+    - [ ] Day 0 :: UIKit Dynamics
+    - [ ] Day 1 :: NSURLSession
+    - [ ] Day 2 :: Asset Catalog
+    - [ ] Day 3 :: Background Fetch
+    - [ ] Day 4 :: AVSpeechSynthesizer 
+    - [ ] Day 5 :: UIDynamics with Collection Views
+    - [ ] Day 6 :: Tint Color
+    - [ ] Day 7 :: Taking Snapshots of UIViews
+    - [ ] Day 8 :: Reading list with SafariServices
+    - [ ] Day 9 :: Device Identification
+    - [ ] Day 10 :: Custom UIViewController Transitions
+    - [ ] Day 11 :: UIView Key-frame Animations
+    - [ ] Day 12 :: Dynamic Type and Font Descriptors
+    - [ ] Day 13 :: Route Directions with MapKit
+    - [ ] Day 14 :: Interactive View Controller Transitions
+    - [ ] Day 15 :: CoreImage Filters
+    - [ ] Day 16 :: Decoding QR Codes with AVFoundation
+    - [ ] Day 17 :: iBeacons
+    - [ ] Day 18 :: Detecting Facial Features with CoreImage
+    - [ ] Day 19 :: UITableView Row Height Estimation
+    - [ ] Day 20 :: View controller content and navigation bars
+    - [ ] Day 21 :: Multi-column TextKit text rendering
+    - [ ] Day 22 :: Downloadable Fonts
+    - [ ] Day 23 :: Multipeer Connectivity
+    - [ ] Day 24 :: The End
 
-- #### [iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day) :large_orange_diamond:
-    - [ ] [iOS8 Day-by-Day :: Index]()
-    - [ ] [Introducing iOS8 Day-by-Day]()
-    - [ ] [iOS8 Day-by-Day :: Day 1 :: Blagger's Guide to Swift]()
-    - [ ] [iOS8 Day-by-Day :: Day 2 :: Sharing Extension]()
-    - [ ] [iOS8 Day-by-Day :: Day 3 :: UIVisualEffects]()
-    - [ ] [iOS8 Day-by-Day :: Day 4 :: Custom Fonts in Interface Builder]()
-    - [ ] [iOS8 Day-by-Day :: Day 5 :: Auto-sizing table view cells]()
-    - [ ] [iOS8 Day-by-Day :: Day 6 :: Profiling Unit Tests]()
-    - [ ] [iOS8 Day-by-Day :: Day 7 :: Adaptive Layout and UITraitCollection]()
-    - [ ] [iOS8 Day-by-Day :: Day 8 :: Today Extension]()
-    - [ ] [iOS8 Day-by-Day :: Day 9 :: Designated Initialisers]()
-    - [ ] [iOS8 Day-by-Day :: Day 10 :: Xcode 6 Playgrounds]()
-    - [ ] [iOS8 Day-by-Day :: Day 11 :: Asynchronous Testing]()
-    - [ ] [iOS8 Day-by-Day :: Day 12 :: HealthKit]()
-    - [ ] [iOS8 Day-by-Day :: Day 13 :: CoreImage Detectors]()
-    - [ ] [iOS8 Day-by-Day :: Day 14 :: Rotation Deprecation]()
-    - [ ] [iOS8 Day-by-Day :: Day 15 :: New NSFormatters]()
-    - [ ] [iOS8 Day-by-Day :: Day 16 :: Hiding Navigation Bars]()
-    - [ ] [iOS8 Day-by-Day :: Day 17 :: Live Rendering in Interface Builder]()
-    - [ ] [iOS8 Day-by-Day :: Day 18 :: UISplitViewController]()
-    - [ ] [iOS8 Day-by-Day :: Day 19 :: CoreImage Kernels]()
-    - [ ] [iOS8 Day-by-Day :: Day 20 :: Photos Framework]()
-    - [ ] [iOS8 Day-by-Day :: Day 21 :: Alerts and Popovers]()
-    - [ ] [iOS8 Day-by-Day :: Day 22 :: Linking to Settings App]()
-    - [ ] [iOS8 Day-by-Day :: Day 23 :: Photo Extension]()
-    - [ ] [iOS8 Day-by-Day :: Day 24 :: Presentation Controllers]()
-    - [ ] [iOS8 Day-by-Day :: Day 25 :: Notification Actions]()
-    - [ ] [iOS8 Day-by-Day :: Day 26 :: AVKit]()
-    - [ ] [iOS8 Day-by-Day :: Day 27 :: Launch Images]()
-    - [ ] [iOS8 Day-by-Day :: Day 28 :: Document Picker]()
-    - [ ] [iOS8 Day-by-Day :: Day 29 :: Safari Action Extension]()
-    - [ ] [iOS8 Day-by-Day :: Day 30 :: App Previews]()
-    - [ ] [iOS8 Day-by-Day :: Day 31 :: Using Touch ID to Secure the Keychain]()
-    - [ ] [iOS8 Day-by-Day :: Day 32 :: Layout Margins]()
-    - [ ] [iOS8 Day-by-Day :: Day 33 :: CloudKit]()
-    - [ ] [iOS8 Day-by-Day :: Day 34 :: CoreLocation Authorization]()
-    - [ ] [iOS8 Day-by-Day :: Day 35 :: CoreMotion]()
-    - [ ] [iOS8 Day-by-Day :: Day 36 :: Location Notifications]()
-    - [ ] [iOS8 Day-by-Day :: Day 37 :: Autosizing Collection View Cells]()
-    - [ ] [iOS8 Day-by-Day :: Day 38 :: Handoff]()
-    - [ ] [iOS8 Day-by-Day :: Day 39 :: WatchKit]()
+- #### [iOS8 Day-by-Day](https://www.shinobicontrols.com/blog/introducing-ios8-day-by-day)  
+    - [ ] iOS8 Day-by-Day :: Index
+    - [ ] Introducing iOS8 Day-by-Day
+    - [ ] iOS8 Day-by-Day :: Day 1 :: Blagger's Guide to Swift
+    - [ ] iOS8 Day-by-Day :: Day 2 :: Sharing Extension
+    - [ ] iOS8 Day-by-Day :: Day 3 :: UIVisualEffects
+    - [ ] iOS8 Day-by-Day :: Day 4 :: Custom Fonts in Interface Builder
+    - [ ] iOS8 Day-by-Day :: Day 5 :: Auto-sizing table view cells
+    - [ ] iOS8 Day-by-Day :: Day 6 :: Profiling Unit Tests
+    - [ ] iOS8 Day-by-Day :: Day 7 :: Adaptive Layout and UITraitCollection
+    - [ ] iOS8 Day-by-Day :: Day 8 :: Today Extension
+    - [ ] iOS8 Day-by-Day :: Day 9 :: Designated Initialisers
+    - [ ] iOS8 Day-by-Day :: Day 10 :: Xcode 6 Playgrounds
+    - [ ] iOS8 Day-by-Day :: Day 11 :: Asynchronous Testing
+    - [ ] iOS8 Day-by-Day :: Day 12 :: HealthKit
+    - [ ] iOS8 Day-by-Day :: Day 13 :: CoreImage Detectors
+    - [ ] iOS8 Day-by-Day :: Day 14 :: Rotation Deprecation
+    - [ ] iOS8 Day-by-Day :: Day 15 :: New NSFormatters
+    - [ ] iOS8 Day-by-Day :: Day 16 :: Hiding Navigation Bars
+    - [ ] iOS8 Day-by-Day :: Day 17 :: Live Rendering in Interface Builder
+    - [ ] iOS8 Day-by-Day :: Day 18 :: UISplitViewController
+    - [ ] iOS8 Day-by-Day :: Day 19 :: CoreImage Kernels
+    - [ ] iOS8 Day-by-Day :: Day 20 :: Photos Framework
+    - [ ] iOS8 Day-by-Day :: Day 21 :: Alerts and Popovers
+    - [ ] iOS8 Day-by-Day :: Day 22 :: Linking to Settings App
+    - [ ] iOS8 Day-by-Day :: Day 23 :: Photo Extension
+    - [ ] iOS8 Day-by-Day :: Day 24 :: Presentation Controllers
+    - [ ] iOS8 Day-by-Day :: Day 25 :: Notification Actions
+    - [ ] iOS8 Day-by-Day :: Day 26 :: AVKit
+    - [ ] iOS8 Day-by-Day :: Day 27 :: Launch Images
+    - [ ] iOS8 Day-by-Day :: Day 28 :: Document Picker
+    - [ ] iOS8 Day-by-Day :: Day 29 :: Safari Action Extension
+    - [ ] iOS8 Day-by-Day :: Day 30 :: App Previews
+    - [ ] iOS8 Day-by-Day :: Day 31 :: Using Touch ID to Secure the Keychain
+    - [ ] iOS8 Day-by-Day :: Day 32 :: Layout Margins
+    - [ ] iOS8 Day-by-Day :: Day 33 :: CloudKit
+    - [ ] iOS8 Day-by-Day :: Day 34 :: CoreLocation Authorization
+    - [ ] iOS8 Day-by-Day :: Day 35 :: CoreMotion
+    - [ ] iOS8 Day-by-Day :: Day 36 :: Location Notifications
+    - [ ] iOS8 Day-by-Day :: Day 37 :: Autosizing Collection View Cells
+    - [ ] iOS8 Day-by-Day :: Day 38 :: Handoff
+    - [ ] iOS8 Day-by-Day :: Day 39 :: WatchKit
 
-- #### [iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index) :large_orange_diamond:
-    - [ ] [iOS9 Day-by-Day :: Day 1 :: Search APIs]()
-    - [ ] [iOS9 Day-by-Day :: Day 2 :: UI Testing]()
-    - [ ] [iOS9 Day-by-Day :: Day 3 :: Storyboard References]()
-    - [ ] [iOS9 Day-by-Day :: Day 4 :: UIStackView]()
-    - [ ] [iOS9 Day-by-Day :: Day 5 :: Xcode Code Coverage]()
-    - [ ] [iOS9 Day-by-Day :: Day 6 :: Multitasking]()
-    - [ ] [iOS9 Day-by-Day :: Day 7 :: Contacts Framework]()
-    - [ ] [iOS9 Day-by-Day :: Day 8 :: Apple Pay]()
-    - [ ] [iOS9 Day-by-Day :: Day 9 :: UIKit Dynamics]()
-    - [ ] [iOS9 Day-by-Day :: Day 10 :: MapKit Transit]()
-    - [ ] [iOS9 Day-by-Day :: Day 11 :: GameplayKit –  Pathfinding]()
-    - [ ] [iOS9 Day-by-Day :: Day 12 :: GameplayKit – Behaviors & Goals]()
-    - [ ] [iOS9 Day-by-Day :: Day 13 :: CloudKit Web Services]()
-    - [ ] [iOS9 Day-by-Day :: The Conclusion]()
+- #### [iOS9 Day-by-Day](https://www.shinobicontrols.com/blog/ios9-day-by-day-index)  
+    - [ ] iOS9 Day-by-Day :: Day 1 :: Search APIs
+    - [ ] iOS9 Day-by-Day :: Day 2 :: UI Testing
+    - [ ] iOS9 Day-by-Day :: Day 3 :: Storyboard References
+    - [ ] iOS9 Day-by-Day :: Day 4 :: UIStackView
+    - [ ] iOS9 Day-by-Day :: Day 5 :: Xcode Code Coverage
+    - [ ] iOS9 Day-by-Day :: Day 6 :: Multitasking
+    - [ ] iOS9 Day-by-Day :: Day 7 :: Contacts Framework
+    - [ ] iOS9 Day-by-Day :: Day 8 :: Apple Pay
+    - [ ] iOS9 Day-by-Day :: Day 9 :: UIKit Dynamics
+    - [ ] iOS9 Day-by-Day :: Day 10 :: MapKit Transit
+    - [ ] iOS9 Day-by-Day :: Day 11 :: GameplayKit –  Pathfinding
+    - [ ] iOS9 Day-by-Day :: Day 12 :: GameplayKit – Behaviors & Goals
+    - [ ] iOS9 Day-by-Day :: Day 13 :: CloudKit Web Services
+    - [ ] iOS9 Day-by-Day :: The Conclusion
 
-- #### [iOS10 Day by Day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index) :large_orange_diamond:
-    - [ ] [Day 1 :: Messages]()
-    - [ ] [Day 2 :: Thread Sanitizer]()
-    - [ ] [Day 3 :: Xcode Source Editor Extensions]()
-    - [ ] [Day 4 :: UIViewPropertyAnimator]()
-    - [ ] [Day 5 :: User Notifications]()
-    - [ ] [Day 6 :: Notification Content Extensions]()
-    - [ ] [Day 7 :: Measurement]()
-    - [ ] [Day 8 :: Speech]()
-    - [ ] [Day 9 :: SiriKit Intents Extensions]()
-    - [ ] [Day 10 :: SiriKit Intents UI]()
-
+- #### [iOS10 Day by Day](https://www.shinobicontrols.com/blog/ios-10-day-by-day-index)  
+    - [ ] Day 1 :: Messages
+    - [ ] Day 2 :: Thread Sanitizer
+    - [ ] Day 3 :: Xcode Source Editor Extensions
+    - [ ] Day 4 :: UIViewPropertyAnimator
+    - [ ] Day 5 :: User Notifications
+    - [ ] Day 6 :: Notification Content Extensions
+    - [ ] Day 7 :: Measurement
+    - [ ] Day 8 :: Speech
+    - [ ] Day 9 :: SiriKit Intents Extensions
+    - [ ] Day 10 :: SiriKit Intents UI

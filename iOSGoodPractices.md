@@ -1,14 +1,14 @@
 ## [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 
-- [x] [Getting Started](#getting-started)
-- [x] [Common Libraries](#common-libraries)
-- [x] [Architecture](#architecture)
-- [x] [Stores](#stores)
-- [x] [Assets](#assets)
-- [x] [Coding Style](#coding-style)
-- [x] [Security](#security)
-- [x] [Diagnostics](#diagnostics)
-- [x] [Analytics](#analytics)
-- [x] [Building](#building)
-- [x] [Deployment](#deployment)
-- [x] [In-App Purchases (IAP)](#in-app-purchases-iap)
+- [x] Getting Started
+- [x] Common Libraries
+- [x] Architecture
+- [x] Stores
+- [x] Assets
+- [x] Coding Style
+- [x] Security
+- [x] Diagnostics
+- [x] Analytics
+- [x] Building
+- [x] Deployment
+- [x] In-App Purchases (IAP)
