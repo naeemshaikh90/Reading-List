@@ -4,7 +4,7 @@
   - Everyday we came across lots of great links, tutorials and GitHub profiles, but its not possible to check out each of them instantaneously. So I have decided to create a git repo to maintain all that awesome links to check out in my free time. If you found any great links that needs to be check out, feel free to submit a pull request. Meanwhile checkout my curated links.
 
 #### iOS
-   - [The Swift Programming Language (Swift 3.0.1)](https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook/SwiftBook.md)
+  - [The Swift Programming Language (Swift 3.0.1)](https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook/SwiftBook.md)
   - [Guidelines](https://github.com/naeemshaikh90/Reading-List/blob/master/Guidelines.md)
   - [WWDC](https://github.com/naeemshaikh90/Reading-List/blob/master/WWDC.md)
   - [Shinobi Controls](https://github.com/naeemshaikh90/Reading-List/blob/master/ShinobiControls.md)
