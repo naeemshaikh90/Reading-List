@@ -14,6 +14,9 @@
   - [Hacking with Swift][8]
   - [That thing in swift][9]
   - [Realm][10]
+  - [Architecture][11]
+  - [Style Guides][12]
+  - [Security][13]
 
 [1]: (https://github.com/naeemshaikh90/Reading-List/blob/master/SwiftBook/SwiftBook.md)
 [2]: (https://github.com/naeemshaikh90/Reading-List/blob/master/iOSGoodPractices.md)
@@ -25,6 +28,9 @@
 [8]: (https://github.com/naeemshaikh90/Reading-List/blob/master/Hacking%20with%20Swift.md)
 [9]: (https://github.com/naeemshaikh90/Reading-List/blob/master/That-thing-in-swift.md)
 [10]: (https://github.com/naeemshaikh90/Reading-List/blob/master/Realm.md)
+[11]: (https://github.com/naeemshaikh90/Reading-List/blob/master/Architecture.md)
+[12]: (https://github.com/naeemshaikh90/Reading-List/blob/master/StyleGuides.md)
+[13]: (https://github.com/naeemshaikh90/Reading-List/blob/master/Security.md)
 
 #### Design
   - [Learn Sketch](https://github.com/naeemshaikh90/Reading-List/blob/master/Sketch.md)
