@@ -1,6 +1,7 @@
 # Touch Typing
 ## [Typing.com](https://www.typing.com/)
-#### Beginner
+<details>
+<summary>**Beginner**</summary>
 - [x] [J, F and Space](https://www.typing.com/student/lessons/359/j-f-and-space)
 - [x] [U, R and K Keys](https://www.typing.com/student/lessons/360/u-r-and-k-keys)
 - [x] [D, E, and I Keys](https://www.typing.com/student/lessons/361/d-e-and-i-keys)
@@ -9,9 +10,10 @@
 - [x] [T, S, and L Keys](https://www.typing.com/student/lessons/366/t-s-and-l-keys)
 - [x] [O, B, and A Keys](https://www.typing.com/student/lessons/367/o-b-and-a-keys)
 - [x] [V, H, and M Keys](https://www.typing.com/student/lessons/368/v-h-and-m-keys)
-- [ ] [Period and Comma](https://www.typing.com/student/lessons/369/period-and-comma)
+- [x] [Period and Comma](https://www.typing.com/student/lessons/369/period-and-comma)
 - [ ] [Beginner Review 2](https://www.typing.com/student/lessons/383/beginner-review-2)
 - [ ] [W, X, and ; Keys](https://www.typing.com/student/lessons/370/w-x-and-keys)
 - [ ] [Q, Y, and P Keys](https://www.typing.com/student/lessons/371/q-y-and-p-keys)
 - [ ] [Z and Enter Keys](https://www.typing.com/student/lessons/372/z-and-enter-keys)
 - [ ] [Beginner Wrap Up](https://www.typing.com/student/lessons/324/beginner-wrap-up)
+</details>
