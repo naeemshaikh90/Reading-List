@@ -16,6 +16,7 @@
   - [Architecture](https://github.com/naeemshaikh90/Reading-List/blob/master/Architecture.md)
   - [Style Guides](https://github.com/naeemshaikh90/Reading-List/blob/master/StyleGuides.md)
   - [Security](https://github.com/naeemshaikh90/Reading-List/blob/master/Security.md)
+  - [iOS Good Practices](iOSGoodPractices.md)
 
 #### Design
   - [Learn Sketch](https://github.com/naeemshaikh90/Reading-List/blob/master/Sketch.md)
