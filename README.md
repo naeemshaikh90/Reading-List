@@ -1,5 +1,3 @@
-![](https://github.com/naeemshaikh90/Reading-List/blob/master/pexels-photo.jpg)
-
 ## Reading-List
 
 #### About
