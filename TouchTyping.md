@@ -11,7 +11,7 @@
 - [x] [O, B, and A Keys](https://www.typing.com/student/lessons/367/o-b-and-a-keys)
 - [x] [V, H, and M Keys](https://www.typing.com/student/lessons/368/v-h-and-m-keys)
 - [x] [Period and Comma](https://www.typing.com/student/lessons/369/period-and-comma)
-- [ ] [Beginner Review 2](https://www.typing.com/student/lessons/383/beginner-review-2)
+- [x] [Beginner Review 2](https://www.typing.com/student/lessons/383/beginner-review-2)
 - [ ] [W, X, and ; Keys](https://www.typing.com/student/lessons/370/w-x-and-keys)
 - [ ] [Q, Y, and P Keys](https://www.typing.com/student/lessons/371/q-y-and-p-keys)
 - [ ] [Z and Enter Keys](https://www.typing.com/student/lessons/372/z-and-enter-keys)
