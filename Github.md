@@ -15,6 +15,7 @@
 - [ ] [Open Whisper Systems](https://github.com/WhisperSystems)
 - [ ] [Wire Swiss GmbH](https://github.com/wireapp)
 - [ ] [Apple](https://github.com/apple)
+- [ ] [Kickstarter](https://github.com/kickstarter)
 
 #### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
