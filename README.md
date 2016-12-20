@@ -19,7 +19,7 @@
   - [x] [iOS Good Practices](iOSGoodPractices.md)
   - [CocoaPods](CocoaPods.md)
   - [Networking](Networking.md)
-  - [Testing][Testing.md]
+  - [Testing](Testing.md)
 
 #### Design
   - [Learn Sketch](Sketch.md)
