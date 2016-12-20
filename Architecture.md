@@ -1,6 +1,9 @@
 ## Architecture
 - [ ] [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.vzk8l1mim)
 
+#### Model-View-Controller (MVC)
+- [ ] [Apple's Model-View-Controller](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+
 #### Model-View-Controller-Store (MVCS)
 - [ ] [Stackexchange MVCS](http://softwareengineering.stackexchange.com/questions/184396/mvcs-model-view-controller-store)
 
