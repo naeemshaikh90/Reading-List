@@ -19,6 +19,7 @@
 - [ ] [✦ MVC, MVVM, FRP, And Building Bridges](http://cocoamanifest.net/articles/2013/10/mvc-mvvm-frp-and-building-bridges.html)
 - [ ] [MVVM Tutorial with ReactiveCocoa: Part 1/2](https://www.raywenderlich.com/74106/mvvm-tutorial-with-reactivecocoa-part-1)
 - [ ] [MVVM Tutorial with ReactiveCocoa: Part 2/2](https://www.raywenderlich.com/74131/mvvm-tutorial-with-reactivecocoa-part-2)
+- [ ] [FRP iOS Learning resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 #### View-Interactor-Presenter-Entity-Routing (VIPER)
 - [ ] [Architecting iOS Apps with VIPER](https://www.objc.io/issues/13-architecture/viper/)
