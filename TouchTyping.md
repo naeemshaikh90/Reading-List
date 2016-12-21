@@ -1,5 +1,6 @@
 # Touch Typing
 ## [Typing.com](https://www.typing.com/)
+
 <details>
 <summary>**Beginner**</summary>
 - [x] [J, F and Space](https://www.typing.com/student/lessons/359/j-f-and-space)
@@ -12,8 +13,13 @@
 - [x] [V, H, and M Keys](https://www.typing.com/student/lessons/368/v-h-and-m-keys)
 - [x] [Period and Comma](https://www.typing.com/student/lessons/369/period-and-comma)
 - [x] [Beginner Review 2](https://www.typing.com/student/lessons/383/beginner-review-2)
-- [ ] [W, X, and ; Keys](https://www.typing.com/student/lessons/370/w-x-and-keys)
-- [ ] [Q, Y, and P Keys](https://www.typing.com/student/lessons/371/q-y-and-p-keys)
-- [ ] [Z and Enter Keys](https://www.typing.com/student/lessons/372/z-and-enter-keys)
-- [ ] [Beginner Wrap Up](https://www.typing.com/student/lessons/324/beginner-wrap-up)
+- [x] [W, X, and ; Keys](https://www.typing.com/student/lessons/370/w-x-and-keys)
+- [x] [Q, Y, and P Keys](https://www.typing.com/student/lessons/371/q-y-and-p-keys)
+- [x] [Z and Enter Keys](https://www.typing.com/student/lessons/372/z-and-enter-keys)
+- [x] [Beginner Wrap Up](https://www.typing.com/student/lessons/324/beginner-wrap-up)
+</details>
+
+<details>
+<summary>**Intermediate**</summary>
+
 </details>
