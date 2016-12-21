@@ -7,3 +7,4 @@
 - [ ] The New York Times: [Objective-C](https://github.com/NYTimes/objective-c-style-guide)
 - [ ] Sam Soffes: [Objective-C](https://gist.github.com/soffes/812796)
 - [ ] Luke Redpath: [Objective-C](http://lukeredpath.co.uk/blog/2011/06/28/my-objective-c-style-guide/)
+- [ ] Spotify: [Objective-C](https://github.com/spotify/ios-style)
