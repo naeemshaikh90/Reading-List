@@ -7,7 +7,8 @@
   - [ ] [Networking Best Practices](https://developer.apple.com/videos/play/wwdc2012-706/)
 
 ## [2014](https://developer.apple.com/videos/wwdc2014)
-  - [ ] [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
+  - [x] [Core iOS Application Architectural Patterns](https://developer.apple.com/videos/play/wwdc2014/224/)
+  - [x] [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
 
 ## [2015](https://developer.apple.com/videos/wwdc2015/)
   - [ ] [Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2015/102/)

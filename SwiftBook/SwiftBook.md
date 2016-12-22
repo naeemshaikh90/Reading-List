@@ -19,7 +19,7 @@
     - [x] Initialization
     - [x] Deinitialization
     - [x] Automatic Reference Counting
-    - [ ] Optional Chaining
+    - [x] Optional Chaining
     - [ ] Error Handling
     - [ ] Type Casting
     - [ ] Nested Types
