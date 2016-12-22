@@ -3,7 +3,8 @@
 #### [Books](https://www.objc.io/books/)
 
   * - [ ] [Advanced Swift](https://www.objc.io/books/advanced-swift)
-    * - [ ] 1. Introduction
+    * - [x] 1. Introduction
+    * - [ ] 2. Built-In Collections
 
   * - [ ] [Core Data](https://www.objc.io/books/core-data)
     * - [ ] 1. Introduction
