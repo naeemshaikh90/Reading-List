@@ -1,7 +1,7 @@
 # [WWDC Videos](https://developer.apple.com/videos/)
 
 ## [2012](https://developer.apple.com/videos/wwdc2012/)
-  - [ ] [iOS App Performance: Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235/)
+  - [x] [iOS App Performance: Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235/)
   - [ ] [Introducing Passbook, Part 1](https://developer.apple.com/videos/play/wwdc2012/301/)
   - [ ] [Introducing Passbook, Part 2](https://developer.apple.com/videos/play/wwdc2012/309/)
   - [ ] [Networking Best Practices](https://developer.apple.com/videos/play/wwdc2012-706/)
