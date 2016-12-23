@@ -21,5 +21,6 @@
 
 <details>
 <summary>**Intermediate**</summary>
-
+- [x] Common English Words
+- [x] Easy Home Row Words
 </details>
