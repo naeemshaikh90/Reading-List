@@ -1,11 +1,17 @@
 # [WWDC Videos](https://developer.apple.com/videos/)
 
+## [2010](https://developer.apple.com/videos/archive/)
+  - [ ] [API Design for Cocoa and Cocoa Touch](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_138__api_design_for_cocoa_and_cocoa_touch.mov)
+
 ## [2012](https://developer.apple.com/videos/wwdc2012/)
   - [x] [iOS App Performance: Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235/)
   - [ ] [Introducing Passbook, Part 1](https://developer.apple.com/videos/play/wwdc2012/301/)
   - [ ] [Introducing Passbook, Part 2](https://developer.apple.com/videos/play/wwdc2012/309/)
   - [ ] [Networking Best Practices](https://developer.apple.com/videos/play/wwdc2012-706/)
 
+## [2013](https://developer.apple.com/videos/wwdc2013/)
+  - [ ] [What's New in Foundation Networking](https://developer.apple.com/videos/play/wwdc2013/705/)
+  
 ## [2014](https://developer.apple.com/videos/wwdc2014)
   - [x] [Core iOS Application Architectural Patterns](https://developer.apple.com/videos/play/wwdc2014/224/)
   - [x] [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
