@@ -5,7 +5,7 @@
     - [ ] Day 1 :: NSURLSession
     - [ ] Day 2 :: Asset Catalog
     - [ ] Day 3 :: Background Fetch
-    - [ ] Day 4 :: AVSpeechSynthesizer 
+    - [ ] Day 4 :: AVSpeechSynthesizer
     - [ ] Day 5 :: UIDynamics with Collection Views
     - [ ] Day 6 :: Tint Color
     - [ ] Day 7 :: Taking Snapshots of UIViews

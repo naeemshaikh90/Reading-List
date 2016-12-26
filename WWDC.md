@@ -11,7 +11,7 @@
 
 ## [2013](https://developer.apple.com/videos/wwdc2013/)
   - [ ] [What's New in Foundation Networking](https://developer.apple.com/videos/play/wwdc2013/705/)
-  
+
 ## [2014](https://developer.apple.com/videos/wwdc2014)
   - [x] [Core iOS Application Architectural Patterns](https://developer.apple.com/videos/play/wwdc2014/224/)
   - [x] [Advanced iOS Application Architecture and Patterns](https://developer.apple.com/videos/play/wwdc2014/229/)
@@ -29,6 +29,7 @@
   - [ ] [What's New in Cocoa Touch](https://developer.apple.com/videos/play/wwdc2016/205/)
   - [ ] [What's New in Foundation for Swift](https://developer.apple.com/videos/play/wwdc2016/207/)
   - [ ] [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/)
+  - [ ] [Advances in UIKit Animations and Transitions](https://developer.apple.com/videos/play/wwdc2016/216/)
   - [ ] [What's New in UICollectionView in iOS 10](https://developer.apple.com/videos/play/wwdc2016/219/)
   - [ ] [Swift API Design Guidelines](https://developer.apple.com/videos/play/wwdc2016/403/)
   - [ ] [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406/)

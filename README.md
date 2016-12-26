@@ -21,6 +21,7 @@
   - [Networking](Networking.md)
   - [Testing](Testing.md)
   - [objc.io](objc.md)
+  - [UIViewPropertyAnimator](UIViewPropertyAnimator.md)
 
 #### Design
   - [Learn Sketch](Sketch.md)
