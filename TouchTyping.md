@@ -23,4 +23,7 @@
 <summary>**Intermediate**</summary>
 - [x] Common English Words
 - [x] Easy Home Row Words
+- [x] Easy Top Row Words
+- [x] Easy Bottom Row Words
+- [x] Shift Key & Capitalization
 </details>
