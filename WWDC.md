@@ -31,6 +31,7 @@
   - [ ] [Improving Existing Apps with Modern Best Practices](https://developer.apple.com/videos/play/wwdc2016/213/)
   - [ ] [Advances in UIKit Animations and Transitions](https://developer.apple.com/videos/play/wwdc2016/216/)
   - [ ] [What's New in UICollectionView in iOS 10](https://developer.apple.com/videos/play/wwdc2016/219/)
+  - [ ] [What's New in Core Data](https://developer.apple.com/videos/play/wwdc2016/242/)
   - [ ] [Swift API Design Guidelines](https://developer.apple.com/videos/play/wwdc2016/403/)
   - [ ] [Optimizing App Startup Time](https://developer.apple.com/videos/play/wwdc2016/406/)
   - [ ] [Introducing Swift Playgrounds](https://developer.apple.com/videos/play/wwdc2016/408/)
