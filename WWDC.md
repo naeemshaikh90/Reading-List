@@ -1,7 +1,7 @@
 # [WWDC Videos](https://developer.apple.com/videos/)
 
 ## [2010](https://developer.apple.com/videos/archive/)
-  - [ ] [API Design for Cocoa and Cocoa Touch](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_138__api_design_for_cocoa_and_cocoa_touch.mov)
+  - [x] [API Design for Cocoa and Cocoa Touch](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_138__api_design_for_cocoa_and_cocoa_touch.mov)
 
 ## [2012](https://developer.apple.com/videos/wwdc2012/)
   - [x] [iOS App Performance: Responsiveness](https://developer.apple.com/videos/play/wwdc2012/235/)
