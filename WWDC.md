@@ -1,6 +1,7 @@
 # [WWDC Videos](https://developer.apple.com/videos/)
 
 ## [2010](https://developer.apple.com/videos/archive/)
+  - [ ] [What's New in Foundation for iOS 4](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_102__whats_new_in_foundation_for_ios_4.mov)
   - [x] [API Design for Cocoa and Cocoa Touch](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_138__api_design_for_cocoa_and_cocoa_touch.mov)
 
 ## [2011](https://developer.apple.com/videos/archive/)
