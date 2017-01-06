@@ -2,7 +2,7 @@
 
 ## [2010](https://developer.apple.com/videos/archive/)
   - [x] [What's New in Foundation for iOS 4](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_102__whats_new_in_foundation_for_ios_4.mov)
-  - [ ] [Cocoa Tips and Tricks](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_107__cocoa_tips_and_tricks.mov)
+  - [x] [Cocoa Tips and Tricks (AppKit)](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_107__cocoa_tips_and_tricks.mov)
   - [ ] [Advanced Text Handling for iPhone OS](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_110__advanced_text_handling_for_iphone_os.mov)
   - [ ] [Working Effectively with Objective-C on iPhone OS](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_113__working_effectively_with_objectivec_on_iphone_os.mov)
   - [ ] [Advanced Cocoa Text Tips and Tricks](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_114__advanced_cocoa_text_tips_and_tricks.mov)
