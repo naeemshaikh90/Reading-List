@@ -16,6 +16,7 @@
 - [ ] [Wire Swiss GmbH](https://github.com/wireapp)
 - [ ] [Apple](https://github.com/apple)
 - [ ] [Kickstarter](https://github.com/kickstarter)
+- [ ] [CosmicMind](https://github.com/CosmicMind)
 
 #### Profiles
 - [ ] [Vicc Alexander](https://github.com/ViccAlexander)
