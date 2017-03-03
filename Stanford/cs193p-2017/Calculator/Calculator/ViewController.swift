@@ -34,10 +34,16 @@ class ViewController: UIViewController {
         let digit = sender.currentTitle!
         if userIsInTheMiddleOfTyping {
             let textCurrentlyInDisplay = display.text!
+            if digit == "." && textCurrentlyInDisplay.contains(".") {
+                // allowing legal floating point numbers to be entered
+                return
+            }
             display.text = textCurrentlyInDisplay + digit
         } else {
-            display.text = digit
-            userIsInTheMiddleOfTyping = true
+            if digit != "." {
+                display.text = digit
+                userIsInTheMiddleOfTyping = true
+            }
         }
     }
     
