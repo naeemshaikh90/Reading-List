@@ -24,18 +24,74 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+class ViewController: UIViewController
+{
+    @IBOutlet weak var faceView: FaceView! {
+        didSet {
+            let pinchHandler = #selector(FaceView.changeScale(byReactingTo:))
+            let pinchRecognizer = UIPinchGestureRecognizer(target: faceView, action: pinchHandler)
+            faceView.addGestureRecognizer(pinchRecognizer)
+            
+            let tapHandler = #selector(toggelEyes(byReactingTo:))
+            let tapRecognizer = UITapGestureRecognizer(target: self, action: tapHandler)
+            tapRecognizer.numberOfTapsRequired = 1
+            faceView.addGestureRecognizer(tapRecognizer)
+            
+            let swipeUpHandler = #selector(increaseHappiness)
+            let swipeUpRecognizer = UISwipeGestureRecognizer(target: self, action: swipeUpHandler)
+            swipeUpRecognizer.direction = .up
+            faceView.addGestureRecognizer(swipeUpRecognizer)
+            
+            let swipeDownHandler = #selector(decreaseHappiness)
+            let swipeDownRecognizer = UISwipeGestureRecognizer(target: self, action: swipeDownHandler)
+            swipeDownRecognizer.direction = .down
+            faceView.addGestureRecognizer(swipeDownRecognizer)   
+            
+            updateUI()
+        }
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    func toggelEyes(byReactingTo tapRecognizer:UITapGestureRecognizer) {
+        if tapRecognizer.state == .ended {
+            let eyes: FacialExpression.Eyes = (expression.eyes == .closed) ? .open : .closed
+            expression = FacialExpression(eyes: eyes, mouth: expression.mouth)
+        }
     }
-
-
+    
+    func increaseHappiness() {
+        expression = expression.happier
+    }
+    
+    func decreaseHappiness() {
+        expression = expression.sadder
+    }
+    
+    var expression = FacialExpression(eyes: .closed, mouth: .frown) {
+        didSet {
+            updateUI()
+        }
+    }
+    
+    private func updateUI()
+    {
+        switch expression.eyes {
+        case .closed:
+            faceView?.eyesOpen = false
+        case .open:
+            faceView?.eyesOpen = true
+        case .squinting:
+            faceView?.eyesOpen = false
+        }
+        
+        faceView?.mouthCurvature = mouthCurvaters[expression.mouth] ?? 0.0
+    }
+    
+    private let mouthCurvaters = [
+        FacialExpression.Mouth.frown: -1.0,
+        .smirk: -0.5,
+        .neutral: 0.0,
+        .grin: 0.5,
+        .smile: 1.0
+    ]
 }
 

@@ -39,6 +39,9 @@
                             <constraint firstItem="d19-WM-uUl" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="Ns6-cP-RF1"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="faceView" destination="d19-WM-uUl" id="kzf-FB-Civ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
