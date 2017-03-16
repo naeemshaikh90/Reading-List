@@ -24,9 +24,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CalculatorViewController: UIViewController {
     
     @IBOutlet weak var display: UILabel!
+    @IBOutlet weak var descriptionLabel: UILabel!
     
     var userIsInTheMiddleOfTyping = false
     
@@ -56,6 +57,15 @@ class ViewController: UIViewController {
         }
     }
     
+    var displayDescription: String {
+        get {
+            return descriptionLabel.text!
+        }
+        set {
+            descriptionLabel.text = newValue
+        }
+    }
+    
     private var brain = CalculatorBrain()
     
     @IBAction func performOperation(_ sender: UIButton) {
@@ -70,6 +80,10 @@ class ViewController: UIViewController {
         
         if let result = brain.result {
             displayValue = result
+        }
+        
+        if let resultDescription = brain.description {
+            displayDescription = resultDescription
         }
     }
     

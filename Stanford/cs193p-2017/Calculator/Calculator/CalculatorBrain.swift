@@ -36,16 +36,20 @@ struct CalculatorBrain {
     }
     
     private var operarations: Dictionary<String, Operation> = [
-        "π" : Operation.constant(Double.pi),
-        "e" : Operation.constant(M_E),
-        "√"  : Operation.unaryOperation(sqrt),
-        "cos": Operation.unaryOperation(cos),
-        "±" : Operation.unaryOperation({ -$0 }),
-        "×" : Operation.binaryOperation({ $0 * $1 }),
-        "÷" : Operation.binaryOperation({ $0 / $1 }),
-        "+" : Operation.binaryOperation({ $0 + $1 }),
-        "−" : Operation.binaryOperation({ $0 - $1 }),
-        "=" : Operation.equals
+        "π"     : Operation.constant(Double.pi),
+        "e"     : Operation.constant(M_E),
+        
+        "√"     : Operation.unaryOperation(sqrt),
+        "cos"   : Operation.unaryOperation(cos),
+        "sin"   : Operation.unaryOperation(sin),
+        "±"     : Operation.unaryOperation({ -$0 }),
+        "%"     : Operation.unaryOperation({ $0 / 100 }),
+        
+        "×"     : Operation.binaryOperation({ $0 * $1 }),
+        "÷"     : Operation.binaryOperation({ $0 / $1 }),
+        "+"     : Operation.binaryOperation({ $0 + $1 }),
+        "−"     : Operation.binaryOperation({ $0 - $1 }),
+        "="     : Operation.equals
     ]
     
     mutating func performOperation(_ symbol: String) {
@@ -59,7 +63,8 @@ struct CalculatorBrain {
                 }
             case .binaryOperation(let function):
                 if accumulator != nil {
-                    pendingBinaryOperation = PendingBinaryOperation(function: function, firstOperand: accumulator!)
+                    pendingBinaryOperation = PendingBinaryOperation(function: function,
+                                                                    firstOperand: accumulator!)
                     accumulator = nil
                 }
             case .equals:
@@ -76,6 +81,24 @@ struct CalculatorBrain {
     }
     
     private var pendingBinaryOperation: PendingBinaryOperation?
+    
+    /**
+     * 5. Add a Bool property to your CalculatorBrain called resultIsPending which
+     * returns whether there is a binary operation pending.
+     */
+    private var resultIsPending: Bool {
+        get {
+            return pendingBinaryOperation != nil
+        }
+    }
+    
+    /**
+     * 6. Add a String property to your CalculatorBrain called description which returns a description of
+     * the sequence of operands and operations that led to the value returned by result (or the result so
+     * far if resultIsPending). The character = (the equals sign) should never appear in this description,
+     * nor should ... (ellipses).
+     */
+    var description: String?
     
     private struct PendingBinaryOperation {
         let function: (Double, Double) -> Double

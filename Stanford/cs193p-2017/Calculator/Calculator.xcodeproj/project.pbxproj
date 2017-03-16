@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		F71C24411E66D0D400765AE6 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = F71C24401E66D0D400765AE6 /* CalculatorBrain.swift */; };
 		F78EDD6A1E6459F9005BEBD7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78EDD691E6459F9005BEBD7 /* AppDelegate.swift */; };
-		F78EDD6C1E6459F9005BEBD7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78EDD6B1E6459F9005BEBD7 /* ViewController.swift */; };
+		F78EDD6C1E6459F9005BEBD7 /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78EDD6B1E6459F9005BEBD7 /* CalculatorViewController.swift */; };
 		F78EDD6F1E6459F9005BEBD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F78EDD6D1E6459F9005BEBD7 /* Main.storyboard */; };
 		F78EDD711E6459F9005BEBD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F78EDD701E6459F9005BEBD7 /* Assets.xcassets */; };
 		F78EDD741E6459F9005BEBD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F78EDD721E6459F9005BEBD7 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		F71C24401E66D0D400765AE6 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		F78EDD661E6459F9005BEBD7 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F78EDD691E6459F9005BEBD7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F78EDD6B1E6459F9005BEBD7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F78EDD6B1E6459F9005BEBD7 /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
 		F78EDD6E1E6459F9005BEBD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F78EDD701E6459F9005BEBD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F78EDD731E6459F9005BEBD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		F78EDD681E6459F9005BEBD7 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				F78EDD6B1E6459F9005BEBD7 /* ViewController.swift */,
+				F78EDD6B1E6459F9005BEBD7 /* CalculatorViewController.swift */,
 				F78EDD6D1E6459F9005BEBD7 /* Main.storyboard */,
 				F71C24401E66D0D400765AE6 /* CalculatorBrain.swift */,
 				F78EDD7B1E645ADA005BEBD7 /* Supporting Files */,
@@ -149,7 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F71C24411E66D0D400765AE6 /* CalculatorBrain.swift in Sources */,
-				F78EDD6C1E6459F9005BEBD7 /* ViewController.swift in Sources */,
+				F78EDD6C1E6459F9005BEBD7 /* CalculatorViewController.swift in Sources */,
 				F78EDD6A1E6459F9005BEBD7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,7 +276,7 @@
 				DEVELOPMENT_TEAM = HQX3323RTU;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.naeem.cs19p.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naeem.cs193p.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -289,7 +289,7 @@
 				DEVELOPMENT_TEAM = HQX3323RTU;
 				INFOPLIST_FILE = Calculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.naeem.cs19p.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = com.naeem.cs193p.Calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

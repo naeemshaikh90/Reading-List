@@ -24,7 +24,7 @@
 
 import UIKit
 
-class ViewController: UIViewController
+class FaceViewController: UIViewController
 {
     @IBOutlet weak var faceView: FaceView! {
         didSet {
@@ -45,7 +45,7 @@ class ViewController: UIViewController
             let swipeDownHandler = #selector(decreaseHappiness)
             let swipeDownRecognizer = UISwipeGestureRecognizer(target: self, action: swipeDownHandler)
             swipeDownRecognizer.direction = .down
-            faceView.addGestureRecognizer(swipeDownRecognizer)   
+            faceView.addGestureRecognizer(swipeDownRecognizer)
             
             updateUI()
         }
@@ -66,7 +66,7 @@ class ViewController: UIViewController
         expression = expression.sadder
     }
     
-    var expression = FacialExpression(eyes: .closed, mouth: .frown) {
+    var expression = FacialExpression(eyes: .closed, mouth: .neutral) {
         didSet {
             updateUI()
         }
