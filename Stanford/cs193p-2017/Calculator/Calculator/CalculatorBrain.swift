@@ -26,6 +26,10 @@ import Foundation
 
 struct CalculatorBrain {
     
+    mutating func addUnaryOperation(named symbol: String, _ operation: @escaping (Double) -> Double) {
+        operations[symbol] = Operation.unaryOperation(operation)
+    }
+    
     private var accumulator: Double?
     
     private enum Operation {
@@ -35,25 +39,25 @@ struct CalculatorBrain {
         case equals
     }
     
-    private var operarations: Dictionary<String, Operation> = [
-        "π"     : Operation.constant(Double.pi),
-        "e"     : Operation.constant(M_E),
+    private var operations: Dictionary<String, Operation> = [
+        "π" : Operation.constant(Double.pi),
+        "e" : Operation.constant(M_E),
         
-        "√"     : Operation.unaryOperation(sqrt),
-        "cos"   : Operation.unaryOperation(cos),
-        "sin"   : Operation.unaryOperation(sin),
-        "±"     : Operation.unaryOperation({ -$0 }),
-        "%"     : Operation.unaryOperation({ $0 / 100 }),
+        "√" : Operation.unaryOperation(sqrt),
+        "cos" : Operation.unaryOperation(cos),
+        "sin" : Operation.unaryOperation(sin),
+        "±" : Operation.unaryOperation({ -$0 }),
+        "%" : Operation.unaryOperation({ $0 / 100 }),
         
-        "×"     : Operation.binaryOperation({ $0 * $1 }),
-        "÷"     : Operation.binaryOperation({ $0 / $1 }),
-        "+"     : Operation.binaryOperation({ $0 + $1 }),
-        "−"     : Operation.binaryOperation({ $0 - $1 }),
-        "="     : Operation.equals
+        "×" : Operation.binaryOperation({ $0 * $1 }),
+        "÷" : Operation.binaryOperation({ $0 / $1 }),
+        "+" : Operation.binaryOperation({ $0 + $1 }),
+        "−" : Operation.binaryOperation({ $0 - $1 }),
+        "=" : Operation.equals
     ]
     
     mutating func performOperation(_ symbol: String) {
-        if let operation = operarations[symbol] {
+        if let operation = operations[symbol] {
             switch operation {
             case .constant(let value):
                 accumulator = value

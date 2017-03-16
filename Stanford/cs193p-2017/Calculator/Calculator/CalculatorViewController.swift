@@ -31,6 +31,16 @@ class CalculatorViewController: UIViewController {
     
     var userIsInTheMiddleOfTyping = false
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        brain.addUnaryOperation(named: "✅") { [weak weakSelf = self] in
+            // weakSelf -> breaks 'strong' reference cycle
+            weakSelf?.display.textColor = UIColor.green
+            return sqrt($0)
+        }
+    }
+    
     @IBAction func touchDigit(_ sender: UIButton) {
         let digit = sender.currentTitle!
         if userIsInTheMiddleOfTyping {
