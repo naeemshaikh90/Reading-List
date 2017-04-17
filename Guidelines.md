@@ -1,4 +1,5 @@
 ## [Guidelines](https://developer.apple.com/app-store/guidelines/)
+  - [ ] [About iOS App Architecture](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH1-SW1)
 
 #### [App Review](https://developer.apple.com/app-store/review/)
   - [ ] [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
